@@ -46,7 +46,12 @@ int main()
     russian->notResponsible("уборку");
     russian->notResponsible("этот участок");
     russian->notResponsible("ваших соседей");
+    russian->notResponsible("мобильную связь");
+    russian->notResponsible("авиасообщение");
+    russian->notResponsible("твое здоровье");
+    russian->notResponsible("это программное обеспечение");
     russian->notResponsible("депутата");
     russian->notResponsible("страну");
+    russian->notResponsible("себя");
     return 0;
 }
